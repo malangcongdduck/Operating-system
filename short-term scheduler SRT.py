@@ -5,10 +5,7 @@ Created on Thu May 13 21:37:12 2021
 @author: ad
 """
 
-'''
-FCFS 과제와 달리 Log 기록을 제외한 진행 과정 부분을 모두 주석 처리했기 때문에
-모든 프로세스를 끝내고 Log 기록을 출력할 때까지 조금 기다려주세요:)
-'''
+
 
 
 process_list = [] #['id','arrival time','service time','state', 'waiting time'] 프로세스 리스트
